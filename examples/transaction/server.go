@@ -22,7 +22,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/lionelbarrow/braintree-go"
+	"github.com/esrobinson/braintree-go"
 )
 
 type BraintreeJS struct {

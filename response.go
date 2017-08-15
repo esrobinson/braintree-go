@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/lionelbarrow/braintree-go/xmlnil"
+	"github.com/esrobinson/braintree-go/xmlnil"
 )
 
 type Response struct {
